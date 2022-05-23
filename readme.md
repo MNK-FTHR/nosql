@@ -1,6 +1,7 @@
 ## Lancement
+Executer les commandes et actions suivantes:
 
 - npm i
-- copy .env.example .env
+- créez un .env
 - remplissez le .env avec votre lien mongo
 - node index
